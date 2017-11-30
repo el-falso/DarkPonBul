@@ -1,5 +1,5 @@
 /// @description Insert description here
-seconds = 5;
+seconds = 2;
 fadeIn = noone;
 alpha = 1;
 completed = false;

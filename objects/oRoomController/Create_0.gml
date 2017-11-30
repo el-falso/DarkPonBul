@@ -11,7 +11,7 @@ global.GameData[| g_volume_music] = .5;
 
 if (room == rmGame) && (alarm = -1){
 	instance_create_depth(0, 0, 0, oCountdown);
-	alarm[0] = room_speed * 5;
+	alarm[0] = room_speed * 2;
 }
 
 Titelsound1 = noone;
